@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### Clone the repo
+```bash
+git clone https://github.com/imranhc0/react-redux-test.git
+```
+
 ### Install Js Dependency
 
 ```bash
